@@ -1,0 +1,4 @@
+c:\users\hilcomputer\documents\visual studio 2010\Projects\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+c:\users\hilcomputer\documents\visual studio 2010\Projects\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.exe
+c:\users\hilcomputer\documents\visual studio 2010\Projects\AgeCalculator\AgeCalculator\obj\x86\Debug\AgeCalculator.pdb
